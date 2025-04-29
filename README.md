@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lydiaibrahim
 - ♟️ I'm a Social Media Manager at M&C Saatchi
-- 💞️ I completed a Full Stack Coding Bootcamp with Code First Girls 
+- 💞️ In 2024, I completed a Full Stack Coding Bootcamp with Code First Girls
 - 📫 How to reach me lydiaibrahim@proton.me
 
 <!---
