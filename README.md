@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @lydiaibrahim
-- ♟️ I'm a Copywriter at Chess.com
-- 💞️ I’m a student on Code First Girl's Full Stack Degree
-- 👀 I’m interested in sustainability, gaming, and marketing
+- ♟️ I'm a Social Media Manager at M&C Saatchi
+- 💞️ I completed a Full Stack Coding Bootcamp with Code First Girls 
 - 📫 How to reach me lydiaibrahim@proton.me
-- ⚡ Fun fact: I can write with both hands at the same time.
 
 <!---
 lydiaibrahim/lydiaibrahim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
